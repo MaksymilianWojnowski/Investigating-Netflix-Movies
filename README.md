@@ -19,7 +19,7 @@ The `netflix_data.csv` file contains information about movies and TV shows avail
 ## Running the Project
 1. Clone the repository to your local machine.
 2. Make sure you have the required Python libraries installed, such as Pandas and Matplotlib.
-3. Run the `analysis.py` file to conduct the data analysis.
+3. Run the code from 'notebook.ipynb'
 
 ## Required Libraries
 - pandas
